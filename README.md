@@ -13,6 +13,10 @@ A Python-based voice assistant with natural language processing capabilities, in
 1. **Voice-First Interaction**
    - Wake word detection ("JARVIS")
    - Natural speech processing
+   - Web browsing control (YouTube, Google, etc.)
+   - System information (time, date)
+   - Modular command system
+   - Configurable voice responses
 
 2. **AI-Powered Features**
    - Command pattern matching
