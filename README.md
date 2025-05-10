@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # JARVIS: Voice-Enabled AI Assistant 🤖
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) 
@@ -25,4 +24,4 @@ cat > README.md << 'EOF'
 | Command Processing | Rule-based AI        |
 | Learning Capacity  | Static (Expandable)  |
 
-EOF
+
