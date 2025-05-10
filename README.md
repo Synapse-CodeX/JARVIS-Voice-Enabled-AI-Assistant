@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) 
 ![AI](https://img.shields.io/badge/AI-Command%20Processing-yellowgreen)
 
+A Python-based voice assistant with natural language processing capabilities, inspired by the iconic AI from Iron Man..
+
 **Hybrid Assistant Combining:**
 - 🎤 Voice Interface (Speech-to-Text/Text-to-Speech)
 - 🧠 Basic AI (Intent Recognition + Command Processing)
@@ -23,5 +25,15 @@
 | Voice Interface    | SpeechRecognition, PyAudio |
 | Command Processing | Rule-based AI        |
 | Learning Capacity  | Static (Expandable)  |
+
+## Installation 🛠️
+```bash
+# Clone repository
+git clone https://github.com/yourusername/JARVIS.git
+cd JARVIS
+
+# Install dependencies
+pip install -r requirements.txt
+```
 
 
